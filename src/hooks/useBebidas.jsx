@@ -1,4 +1,4 @@
-import BebidasContext from "../context/BebidasContext";
+import BebidasContext from "../context/BebidasProvider";
 import { useContext } from "react";
 
 const useBebidas = () => {
